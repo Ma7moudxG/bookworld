@@ -10,9 +10,9 @@ const stores = [
   {id: 3, name: "Pages For Ages"},
 ]
 const authors = [
-  {id: 1, name: "Theresa Webb" , href:"/theresa.png", books:12 },
-  {id: 2, name: "Serenity Cooper" , href:"/serenity.png", books:29 },
-  {id: 3, name: "Jacob Warren" , href:"/jacob.png", books:10 },
+  {id: 1, name: "Theresa Webb" , href:"/theresa.png", books:"12" },
+  {id: 2, name: "Serenity Cooper" , href:"/serenity.png", books:"29" },
+  {id: 3, name: "Jacob Warren" , href:"/jacob.png", books:"10" },
 ]
 const books = [
   {id: 1, name:"To Kill a Mockingbird", author: "Theresa Webb" , href:"/tokill.png"},
