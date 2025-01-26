@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 
-const StoreCard = ({ name, books }: { name: string; books: string[] }) => {
+const StoreCard = ({ name }: { name: string }) => {
     return (
       <div className="bg-white flex p-4 rounded-md">
         <div>
